@@ -81,7 +81,11 @@
             "polyfills": "src/polyfills.ts",
             "tsConfig": "tsconfig.spec.json",
             "karmaConfig": "karma.conf.js",
+<<<<<<< HEAD:Frontend/angular.json
             "assets": ["src/favicon.ico", "src/assets", "src/data"],
+=======
+            "assets": ["src/favicon.ico", "src/assets"],
+>>>>>>> bdb86bf58baf3a8b16a4902af7d0594d25a98c9d:angular.json
             "styles": ["src/styles.css"],
             "scripts": []
           }
